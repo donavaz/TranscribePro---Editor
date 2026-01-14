@@ -1,0 +1,7 @@
+{
+  "name": "TranscribePro Editor",
+  "description": "A high-performance transcription tool for multi-speaker audio/video, featuring AI-powered Indian script support, real-time playback synchronization, and multi-format exports including Excel, SRT, and ASS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
